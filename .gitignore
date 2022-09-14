@@ -12,6 +12,7 @@
 /build
 
 /config
+/src/config/key.js
 
 # misc
 .DS_Store
