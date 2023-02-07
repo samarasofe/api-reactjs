@@ -1,4 +1,4 @@
-# API MOVIES with REACT JS
+# Api Movies with React JS
 
 ![image](https://user-images.githubusercontent.com/77743378/182514838-0c800fe9-541f-4cbc-8ffe-22ce38f71a74.png)
 
